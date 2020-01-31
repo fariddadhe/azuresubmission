@@ -25,6 +25,7 @@
        <input type="submit" name="submit" value="Submit" />
        <input type="submit" name="load_data" value="Load Data" />
  </form>
+<a href="computervision.html">Computer vision</a><br>
  <?php
     $host = "azuresubmissionserver.database.windows.net";
     $user = "azuresubmission";
