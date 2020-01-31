@@ -28,7 +28,7 @@
  <?php
     $host = "azuresubmissionserver.database.windows.net";
     $user = "azuresubmission";
-    $pass = "Jancuk123";
+    $pass = "Bangke123";
     $db = "azuresubmissiondb";
 
     try {
